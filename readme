@@ -1,0 +1,5 @@
+The raw codes were written by Yong Zhang, Prof @ Tongji University when he was in Harvard University.
+
+It provides the translational, rotational and statistical positioning information for Nucleosome positioning. And I modified something to facilitate the automation and give me more accurate usage information. Additionally, plots by Rscripts in the pdf format were also provided.
+
+This pipeline consumes almost 12 hours to finish this job.
