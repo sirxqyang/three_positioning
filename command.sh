@@ -42,14 +42,14 @@ Rscript statp.R
 # Inform myself that mission accomplished
 # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 /usr/sbin/sendmail -t <<EOF
-From: Mail testing <xiaoqinyang@yeah.net>                                                                                      
+From: Notification <xiaoqinyang@yeah.net>                                                                                      
 To: sirxqyang@gmail.com
 Subject: Misson accomplished!                                                  
 ----------------------------------
 Sweet heart,
 
-Nucleosome bowtie finished!
-Further analysis could be perform.
+Nucleosome positioning analysis finished!
+Further analysis could be performed.
 
 me
 ---------------------------------
